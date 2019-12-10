@@ -6,7 +6,7 @@ import { connect } from "react-redux";
 
 import { getInputData, toggleInputResults } from "./../actions/index";
 
-const MY_API_KEY = "AIzaSyDBYJmYQkG7IuhZcUNTo-yWNB6ix1hstzA";
+const MY_API_KEY = "";
 
 // const res = fetch("https://maps.googleapis.com/maps/api/distancematrix/json")
 //   .query({
