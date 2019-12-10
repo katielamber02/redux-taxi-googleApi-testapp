@@ -88,5 +88,5 @@ class Home extends Component {
 }
 
 export default GoogleApiWrapper({
-  apiKey: "AIzaSyDBYJmYQkG7IuhZcUNTo-yWNB6ix1hstzA"
+  apiKey: "XXX"
 })(Home);
